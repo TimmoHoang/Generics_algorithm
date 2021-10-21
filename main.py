@@ -24,6 +24,8 @@ while count < 1000:
 
 with open("Program2Input.txt") as file:
 
+    for data in file:
+        print(data)
     # for i in range(0, 999):
     #     sum = 0
     #     for j in range(0, len(one_gen[i]) - 1):
@@ -31,7 +33,7 @@ with open("Program2Input.txt") as file:
     #         #Calculate fitness. utility and weight.
     #         else:
     #             continue
-      #  print(sum)
+    #    print(sum)
 
 
 
