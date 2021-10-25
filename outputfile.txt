@@ -1,0 +1,3 @@
+Generation 5000
+Max per generation: 149.60000000000002
+Average per generation: 103.10530000000007
